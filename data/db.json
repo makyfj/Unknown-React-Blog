@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Whey do we use it?\nIt is a long established fact that a",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Whey do we use it?\nIt is a long established fact that a",
+      "author": "franklin",
+      "id": 2
+    },
+    {
+      "title": "React Blog",
+      "body": "React blog project ",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
