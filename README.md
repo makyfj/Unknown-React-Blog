@@ -1,3 +1,13 @@
+# Unknown React Blog
+
+- Add new blogs with a title, body and author
+- View blogs with body information
+- Delete blogs
+
+![alt website-1](https://github.com/makyfj/Unknown-React-Blog/blob/main/progress/blog1.png?raw=true)
+![alt website-2](https://github.com/makyfj/Unknown-React-Blog/blob/main/progress/blog2.png?raw=true)
+![alt website-3](https://github.com/makyfj/Unknown-React-Blog/blob/main/progress/blog3.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,13 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Unknown React Blog
-
-- Add new blogs with a title, body and author
-- View blogs with body information
-- Delete blogs
-
-![alt website-1](https://github.com/makyfj/Unknown-React-Blog/blob/main/progress/blog1.png?raw=true)
-![alt website-2](https://github.com/makyfj/Unknown-React-Blog/blob/main/progress/blog2.png?raw=true)
-![alt website-3](https://github.com/makyfj/Unknown-React-Blog/blob/main/progress/blog3.png?raw=true)
